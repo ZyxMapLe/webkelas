@@ -46,7 +46,7 @@ body {
 	display:block;
 	position:relative;
 	width:50%;
-	background:#fff;
+	background: url(./img/icon.png) no-repeat center center fixed;
 	margin:10% auto;
 	padding:10px;
 	border:1px solid #6cf;
