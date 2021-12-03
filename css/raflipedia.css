@@ -23,7 +23,7 @@ body {
             padding: 20px;
         }
 .footer {
-	background-color:#fff;
+	background-color:#000;
 	height:auto;
 	width:100%;
 	border:4px;
@@ -68,7 +68,7 @@ body {
 	font-family:'Teko';
 }
 .tombol:hover {
-	background:#000;
+	background:#fff;
 	position:relative;
 	width:49%;
 	height:40px;
