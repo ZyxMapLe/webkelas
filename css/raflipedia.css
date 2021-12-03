@@ -10,20 +10,16 @@
 	box-sizing:border-box;
 }
 body {
-            color: #fff;
-            font-family: "Jost", sans-serif;
-            background-image: url("https://i.ibb.co/1nWdqxV/006e1778b6e4.jpg");
-            background-repeat: no-repeat;
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            min-height: 100vh;
-            display: flex;
-            flex-wrap: wrap;
-            padding: 20px;
-        }
+	background:#000;
+	background-image: url("https://i.ibb.co/1nWdqxV/006e1778b6e4.jpg");
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	margin:0;
+}
 .footer {
-	background-color:#000;
+	background-color:#fff;
 	height:auto;
 	width:100%;
 	border:4px;
@@ -68,7 +64,7 @@ body {
 	font-family:'Teko';
 }
 .tombol:hover {
-	background:#fff;
+	background:#000;
 	position:relative;
 	width:49%;
 	height:40px;
